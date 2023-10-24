@@ -1,0 +1,100 @@
+  *{
+            margin: 0;
+        }
+		
+		body {
+		 background-color: white;
+        }
+		
+	   .img1{
+		 padding-top: 100px;
+		 padding-left: 500px;
+		   
+		}
+		
+	    .img2{
+		 padding-top: 100px;
+		 padding-left: 500px;
+
+		}
+		
+	    .img3{
+		 padding-top: 100px;
+         padding-left: 500px;
+
+		}
+		
+	    .img4{
+         float: right;
+		 height: 300px;
+		   
+		}
+
+		
+        .navButton{
+            padding: 20px;
+            font-family: Times new roman;
+            color: white;
+            list-style-type: none;
+            float: right;
+            font-size: 30px;
+            border-left: 1px solid black;
+			margin-top: 5px;
+        }
+
+        nav{
+            width: 100%;
+            position: fixed;
+            height: 80px;
+            background: linear-gradient(90deg, rgba(13,105,87,1) 43%, rgba(28,150,129,1) 65%, rgba(45,168,147,1) 92%);
+			}
+
+        .webTitle{
+            font-family: "Times new roman";
+            font-size: 60px;
+            color: white;
+			height: 80px;
+			margin-left: 10px;
+			padding: 5px;
+			
+        }
+		
+		.intro {
+		    margin-top: 0px;
+		    margin-right: 20px;
+			margin-left: 20px;
+			margin-bottom: 5px;
+		    display: flex;
+			flex-direction: column;
+			width: 500px;
+		}
+		
+		body {
+			background-color: white;
+0
+        }
+		
+		 h2{
+		   float: left;
+		   font-family: Times new roman;
+		   font-size: 30px;
+		   color: white;
+		   font-weight: bold;
+		   margin-right: 20px;
+		   margin-top: 200px;
+		   padding: 500px;
+	    }
+		
+		li {
+			font-size: 45px;
+		}
+		
+		
+		
+	     p{
+		   font-size: 25px;
+		   color: black;
+		   margin: 20px 0;
+	    }
+
+	}
